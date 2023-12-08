@@ -9,7 +9,7 @@ body {
     background-color: #f4f4f4;
   }
   
-  .container {
+  .login-container, .upload-container {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -21,8 +21,7 @@ body {
     margin-bottom: 5px;
   }
   
-  input,
-  textarea {
+  input, textarea {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
@@ -42,8 +41,7 @@ body {
     background-color: #45a049;
   }
   
-  #uploadContainer,
-  #bidContainer {
+  #uploadContainer {
     margin-top: 20px;
   }
   
